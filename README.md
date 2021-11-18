@@ -20,3 +20,13 @@ The choice is up to the student on how they are going to learn, whether by readi
 # Repositories
 
 - [Python for Data Science](https://github.com/atwine/PythonDataScienceHandbook)
+
+# New Articles Thur-18-2021
+
+- [This article speaks about Bagging, Boosting and Stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+
+- [Bagging and Boosting Articles](https://towardsdatascience.com/ensemble-learning-bagging-boosting-3098079e5422)
+
+- [Overfitting and Underfitting](https://medium.com/greyatom/what-is-underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6803a989c76)
+
+- [More Overfitting and Underfitting](https://towardsdatascience.com/what-are-overfitting-and-underfitting-in-machine-learning-a96b30864690)
